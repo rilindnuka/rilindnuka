@@ -84,18 +84,8 @@
 
   
 
-[website]: https://mbo.dev
+[website]: https://rilindnuka.github.io/
 
-[twitter]: https://twitter.com/_mbodev
+[twitter]: https://twitter.com/rilindnuka
 
-[youtube]: https://www.youtube.com/channel/UC9d3SXuZ5hKDEJxYb2ld-XQ
-
-[linkedin]: https://www.linkedin.com/in/manuel-bogner/
-
-[gitlab]: https://gitlab.com/mbodev
-
-[xing]: https://www.xing.com/profile/Manuel_Bogner
-
-[facebook]: https://www.facebook.com/mbogner666
-
-[blog]: https://blog.coffeebeans.at
+[linkedin]: https://www.linkedin.com/in/rilindnuka/
