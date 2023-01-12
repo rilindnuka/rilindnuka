@@ -7,7 +7,7 @@
   
   
 
-- 🥅 2022 Goal	: Launch a personal product that i've been developing for about a year now!
+- 🥅 2023 Goal	: Finish a personal product that i've been developing for over a year now!
 
 - ⚡ Fun fact: I love to code, play with microcontrollers and in my free time play Basketball 🏀 or Football ⚽
 
