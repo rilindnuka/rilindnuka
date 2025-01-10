@@ -7,7 +7,7 @@
   
   
 
-- 🥅 2024 Goal	: Finish a personal product that i've been developing for over two years now!
+- 🥅 2025 Goal	: Finish two personal projects that i've been developing for over three years now!
 
 - ⚡ Fun fact: I love to code, play with microcontrollers and in my free time play Basketball 🏀 or Football ⚽
 
