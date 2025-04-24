@@ -1,7 +1,7 @@
 
 ## Hi there! I'm Rilind 👋
 
-### I'm a Software Developer, located in Kosovë!
+### I'm a Software Engineer, located in Kosovë!
 
   
   
