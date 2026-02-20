@@ -7,7 +7,7 @@
   
   
 
-- 🥅 2025 Goal	: Finish two personal projects that i've been developing for over three years now!
+- 🥅 2026 Goal	: Bring [https://fjaleore.com][FjaleOre] project up to speed and start selling!
 
 - ⚡ Fun fact: I love to code, play with microcontrollers and in my free time play Basketball 🏀 or Football ⚽
 
